@@ -1,3 +1,7 @@
+# Line Chart for Framer
+
+This is the official repository for the [Line Chart (ChartJs)](https://packages.framer.com/package/r6ybv3jx/line-chart-chartjs) package.
+
 # Overview of Line Chart
 
 This is a simple component for creating a line chart that uses ChartJs library.
