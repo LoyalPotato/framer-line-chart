@@ -1,0 +1,24 @@
+{
+	"main": "dist/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/react": "^16.8"
+	},
+	"peerDependencies": {
+		"framer": "^1.0",
+		"react": "^16.8"
+	},
+	"framer": {
+		"id": "630df146-99bc-4b4f-895b-602a4bacca7a",
+		"displayName": "Line Chart (ChartJs)"
+	},
+	"author": "David Bazílio",
+	"dependencies": {
+		"@framer/framer.default": "^1.106.0",
+		"chart.js": "^2.9.4",
+		"chartjs-plugin-annotation": "^0.5.7",
+		"react-chartjs-2": "^2.11.1"
+	},
+	"name": "@framer/r6ybv3jx.line-chart-chartjs",
+	"version": "1.7.0"
+}

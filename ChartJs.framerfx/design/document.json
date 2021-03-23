@@ -1,0 +1,205 @@
+{
+  "root" : {
+    "__class" : "RootNode",
+    "children" : [
+      {
+        "__class" : "PageNode",
+        "children" : [
+          {
+            "__class" : "CodeComponentNode",
+            "$control__annotations" : {
+              "type" : "array",
+              "value" : [
+                {
+                  "id" : "F2h01by0i",
+                  "type" : "object",
+                  "value" : {
+                    "borderColor" : {
+                      "type" : "color",
+                      "value" : "rgb(255, 0, 0)"
+                    },
+                    "value" : {
+                      "type" : "string",
+                      "value" : "100"
+                    }
+                  }
+                },
+                {
+                  "id" : "IpxMvyAgt",
+                  "type" : "object",
+                  "value" : {
+                    "borderColor" : {
+                      "type" : "color",
+                      "value" : "rgb(0, 184, 104)"
+                    },
+                    "value" : {
+                      "type" : "string",
+                      "value" : "500"
+                    }
+                  }
+                }
+              ]
+            },
+            "$control__dataSet" : {
+              "type" : "array",
+              "value" : [
+                {
+                  "id" : "VQxJmOH7R",
+                  "type" : "object",
+                  "value" : {
+                    "backgroundColor" : {
+                      "type" : "color",
+                      "value" : "rgba(115, 121, 137, 0.3)"
+                    },
+                    "borderColor" : {
+                      "type" : "color",
+                      "value" : "#737989"
+                    },
+                    "data" : {
+                      "type" : "string",
+                      "value" : "44,570,311,358,463,687,225,673,559,367,524,325"
+                    },
+                    "fill" : {
+                      "type" : "string",
+                      "value" : "false"
+                    },
+                    "label" : {
+                      "type" : "string",
+                      "value" : "Dataset"
+                    },
+                    "pointBackgroundColor" : {
+                      "type" : "color",
+                      "value" : "white"
+                    }
+                  }
+                },
+                {
+                  "id" : "UHjHIqzH9",
+                  "type" : "object",
+                  "value" : {
+                    "backgroundColor" : {
+                      "type" : "color",
+                      "value" : "rgba(244, 178, 65, 0.3)"
+                    },
+                    "borderColor" : {
+                      "type" : "color",
+                      "value" : "rgb(244, 178, 65)"
+                    },
+                    "data" : {
+                      "type" : "string",
+                      "value" : "725,826,825,1,744,107,386,969,553,641,805,380"
+                    },
+                    "fill" : {
+                      "type" : "string",
+                      "value" : "0"
+                    },
+                    "label" : {
+                      "type" : "string",
+                      "value" : "Dataset2"
+                    },
+                    "pointBackgroundColor" : {
+                      "type" : "color",
+                      "value" : "white"
+                    }
+                  }
+                }
+              ]
+            },
+            "$control__labels" : {
+              "type" : "string",
+              "value" : "January,February,March,April,May,June,July,August,September,October,November,December"
+            },
+            "$control__showTitle" : {
+              "type" : "boolean",
+              "value" : true
+            },
+            "$control__smooth" : {
+              "type" : "number",
+              "value" : 0.10000000000000001
+            },
+            "$control__stepSize" : {
+              "type" : "number",
+              "value" : 100
+            },
+            "aspectRatio" : null,
+            "bottom" : null,
+            "centerAnchorX" : 0.44227353463587943,
+            "centerAnchorY" : 0.47285067873303188,
+            "clip" : true,
+            "codeComponentIdentifier" : ".\/Line_ChartJs.tsx_LineGraph",
+            "codeComponentPackageVersion" : null,
+            "codeOverrideEnabled" : false,
+            "constraintsLocked" : false,
+            "duplicatedFrom" : [
+              "iZ95N64jJ"
+            ],
+            "exportOptions" : [
+
+            ],
+            "fillColor" : "rgba(255,255,255,1)",
+            "fillEnabled" : false,
+            "fillImage" : null,
+            "fillImageOriginalName" : null,
+            "fillImagePixelHeight" : null,
+            "fillImagePixelWidth" : null,
+            "fillImageResize" : "fill",
+            "fillType" : "color",
+            "height" : 469,
+            "heightType" : 0,
+            "id" : "UJnjz3NPR",
+            "intrinsicHeight" : null,
+            "intrinsicWidth" : null,
+            "left" : 92,
+            "locked" : false,
+            "name" : null,
+            "opacity" : 1,
+            "originalid" : null,
+            "parentid" : "fQW4FkjVW",
+            "previewSettings" : null,
+            "radius" : 0,
+            "radiusBottomLeft" : 0,
+            "radiusBottomRight" : 0,
+            "radiusIsRelative" : false,
+            "radiusPerCorner" : false,
+            "radiusTopLeft" : 0,
+            "radiusTopRight" : 0,
+            "right" : null,
+            "rotation" : 0,
+            "top" : -24,
+            "visible" : true,
+            "width" : 626,
+            "widthType" : 0
+          }
+        ],
+        "duplicatedFrom" : null,
+        "guidesX" : [
+
+        ],
+        "guidesY" : [
+
+        ],
+        "homeNodeId" : null,
+        "id" : "fQW4FkjVW",
+        "name" : "Page 1",
+        "originalid" : null,
+        "parentid" : "DOzDllXaq",
+        "visible" : false
+      }
+    ],
+    "disableBackdropFilters" : true,
+    "duplicatedFrom" : null,
+    "id" : "DOzDllXaq",
+    "name" : null,
+    "originalid" : null,
+    "parentid" : null,
+    "thumbnailNodeId" : null,
+    "tokens" : {
+
+    },
+    "tokensIndex" : [
+
+    ],
+    "visible" : false
+  },
+  "version" : 78
+}
